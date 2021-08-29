@@ -29,4 +29,5 @@ dependencies:
   - numba
   - spyder=5.0.5
   - bokeh
+  - jupyter_contrib_nbextensions
 prefix: C:\ProgramData\Miniconda3\envs\scikit-learn
