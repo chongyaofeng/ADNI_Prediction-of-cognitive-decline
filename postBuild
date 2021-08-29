@@ -1,3 +1,4 @@
+#!/bin/bash
 wget -q -O data_availability_draft_1.bak "https://github.com/chongyaofeng/ADNI_Prediction-of-cognitive-decline/blob/main/data/data_availability_draft_1.bak"
 wget -q -O data_availability_draft_1.dat "https://github.com/chongyaofeng/ADNI_Prediction-of-cognitive-decline/blob/main/data/data_availability_draft_1.dat"
 wget -q -O data_availability_draft_1.dir "https://github.com/chongyaofeng/ADNI_Prediction-of-cognitive-decline/blob/main/data/data_availability_draft_1.dir"
