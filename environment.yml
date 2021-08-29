@@ -1,0 +1,32 @@
+name: scikit-learn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - pytest-cov
+  - mypy
+  - sphinx-gallery
+  - memory_profiler
+  - seaborn
+  - sphinx
+  - pillow
+  - pandas
+  - pyamg
+  - sphinx-prompt
+  - pytest
+  - scikit-image
+  - cython
+  - flake8
+  - matplotlib
+  - numpydoc
+  - lxml
+  - dask
+  - jupyterlab
+  - voila
+  - notebook
+  - cudatoolkit
+  - numba
+  - spyder=5.0.5
+  - bokeh
+prefix: C:\ProgramData\Miniconda3\envs\scikit-learn
