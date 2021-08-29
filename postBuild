@@ -1,0 +1,2 @@
+#!/bin/bash
+wget -q -O test "https://github.com/chongyaofeng/ADNI_Prediction-of-cognitive-decline/blob/main/data_availability_draft_1.pk1"
