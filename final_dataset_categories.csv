@@ -2992,7 +2992,7 @@ CCI__CCI17,24.47342026,NPA,CCI,Cognitive Change Index,17. Organizing my daily ac
 CCI__CCI18,24.52357071,NPA,CCI,Cognitive Change Index,18. Understanding conversations,,
 CCI__CCI19,24.49849549,NPA,CCI,Cognitive Change Index,19. Expressing myself when speaking,,
 CCI__CCI20,24.54864594,NPA,CCI,Cognitive Change Index,"20. Following a story in a book, movie or TV",,
-CCI__CCI12TOT,4.388164493,NPA,CCI,Cognitive Change Index,CCI Index:  Sum of first 12 items,1,
+CCI__CCI12TOT,24.2477,NPA,CCI,Cognitive Change Index,CCI Index:  Sum of first 12 items,1,
 CDR__CDSOURCE,82.29689067,NPA,CDR,Clinical Dementia Rating,Information Source,,
 CDR__CDVERSION,47.19157472,NPA,CDR,Clinical Dementia Rating,Version,,
 CDR__CDMEMORY,82.19658977,NPA,CDR,Clinical Dementia Rating,Score <!--Memory-->,,
