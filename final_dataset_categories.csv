@@ -1,6 +1,7 @@
 Variable name,"var_availability (this was calculated using the full final_dataset.csv, with all subjects)",Category of variable,Sub-category of variable,Metadata: CRFNAME,Metadata: TEXT,Key variable,
 RID,100,Admin,Nil,-1,-1,,
 BASELINE_DX,68.20461384,Clinical,Diagnosis,-1,-1,1,
+SITEID,98.5958,Admin,Nil,-1,-1,1,
 ADAS_ADNIGO23__WORDLIST,23.01905717,NPA,ADAS-Cog,ADAS-Cognitive Behavior,Word Recall and Recognition Tasks List Number,,
 ADAS_ADNIGO23__Q1UNABLE,1.479438315,NPA,ADAS-Cog,ADAS-Cognitive Behavior,1. Word Recall,,
 ADAS_ADNIGO23__Q1TRIT,21.91574724,NPA,ADAS-Cog,ADAS-Cognitive Behavior,Trial 1 Total,,
